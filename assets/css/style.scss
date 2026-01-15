@@ -9,8 +9,8 @@
 }
 
 /* Hide the site footer */
-.site-footer {
-  display: none;
+.site-footer, footer, .footer {
+  display: none !important;
 }
 
 /* Hide the site header/nav for cleaner look */
