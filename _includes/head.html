@@ -1,0 +1,17 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <style>
+    /* Hide header and footer */
+    .site-header, .site-footer, header, footer { display: none !important; }
+    
+    /* Wider content */
+    .wrapper, .page-content .wrapper { max-width: 900px; margin: 0 auto; padding: 30px 15px; }
+    
+    /* Responsive images */
+    img { max-width: 100%; height: auto; }
+  </style>
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+</head>
