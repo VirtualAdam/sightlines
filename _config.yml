@@ -1,1 +1,7 @@
+title: Sightlines
+description: ""
+baseurl: "/sightlines"
+url: "https://virtualadam.github.io"
+
 markdown: kramdown
+theme: minima

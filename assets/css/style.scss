@@ -1,0 +1,23 @@
+---
+---
+
+@import "minima";
+
+/* Override minima's narrow content width */
+.wrapper {
+  max-width: 900px;
+}
+
+/* Hide the site footer */
+.site-footer {
+  display: none;
+}
+
+/* Hide the site header/nav if you want cleaner look */
+/* .site-header { display: none; } */
+
+/* Make images responsive */
+img {
+  max-width: 100%;
+  height: auto;
+}
