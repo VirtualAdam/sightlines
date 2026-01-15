@@ -36,7 +36,7 @@ Standups aren't the root problem. Shared context is. Standups are just the cerem
 
 ---
 
-<img src="images/context-stack/CAT_status_update.png" alt="Alice's agent shares a status update with Bob's agent. The agents work to include the architectural and health context required to understand the status." width="70%">
+<img src="/sightlines/bearings/images/context-stack/CAT_status_update.png" alt="Alice's agent shares a status update with Bob's agent. The agents work to include the architectural and health context required to understand the status." width="70%">
 ## A Different Kind of Handoff
 
 I started thinking about this differently. Instead of humans trying to maintain context through conversation, what if we created artifacts that preserved context automatically?
