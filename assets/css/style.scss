@@ -13,8 +13,10 @@
   display: none;
 }
 
-/* Hide the site header/nav if you want cleaner look */
-/* .site-header { display: none; } */
+/* Hide the site header/nav for cleaner look */
+.site-header {
+  display: none;
+}
 
 /* Make images responsive */
 img {
