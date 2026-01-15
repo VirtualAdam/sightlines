@@ -1,0 +1,11 @@
+title: Sightlines
+description: A personal blog hosted on GitHub Pages
+baseurl: "/sightlines"
+url: "https://virtualadam.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Permalink structure for posts
+permalink: /:path/:title/
