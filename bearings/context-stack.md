@@ -1,4 +1,8 @@
-# Standups Are Broken: Rethinking Team Sync in the Age of AI Coding
+---
+layout: default
+title: "Standups Are Broken: Rethinking Team Sync in the Age of AI Coding"
+description: "A practical approach to maintaining shared context when your codebase changes faster than your team can follow"
+---
 
 *A practical approach to maintaining shared context when your codebase changes faster than your team can follow*
 
