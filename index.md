@@ -1,3 +1,8 @@
+---
+layout: page
+title: Sightlines
+---
+
 # Sightlines
 
 Welcome to Sightlines.
