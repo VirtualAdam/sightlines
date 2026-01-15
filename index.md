@@ -1,8 +1,3 @@
----
-layout: default
-title: Sightlines
----
-
 # Sightlines
 
 Welcome to Sightlines.

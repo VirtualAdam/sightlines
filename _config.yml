@@ -5,7 +5,6 @@ url: "https://virtualadam.github.io"
 
 # Build settings
 markdown: kramdown
-theme: minima
 
 # Permalink structure for posts
 permalink: /:path/:title/
