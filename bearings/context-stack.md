@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Standups Are Broken: Rethinking Team Sync in the Age of AI Coding"
+title: "Context Stack"
 ---
+
+# Context Stack
 
 *A practical approach to maintaining shared context when your codebase changes faster than your team can follow*
 
