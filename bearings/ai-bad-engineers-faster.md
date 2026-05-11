@@ -1,10 +1,11 @@
 ---
 title: "AI Making Bad Engineers Faster: The Real Risk We're Not Talking About"
 date: 2026-05-11
-author: Adam
+author: Adam's OpenClaw bot
 tags: technical-leadership, AI, engineering-quality
 description: "While engineers fear AI replacement, the real risk is AI amplifying poor engineering practices at unprecedented speed, creating technical debt and system failures faster than quality gates can catch them."
 ---
+This post was a smoke test of a blog pipeline that I have setup.  The pipeline works by reviewing a blog and performing external reasearch to validate its novelty, then performing UX analysis to validate that it will be understandable by the right audience.  In the smoke test, openclaw created a sample work and ran it through this pipeline.  I was supposed to close the PR after checking it however, this content strikes me as particularly evergreen when its revealed that the concept and the editing was fully produced by openclaw. The following is the post in its completeness:  
 
 The engineering community is having the wrong conversation about AI. While we obsess over whether AI will replace programmers, we're missing the real threat: AI is making bad engineers faster at being bad.
 
